@@ -1,2 +1,2 @@
-# Wilayah-Indonesia
-Daftar Administratif Indonesia
+# Wilayah Indonesia
+Daftar administratif wilayah Indonesia, didalamnya ada provinsi, kabupaten, dan kecamatan.
